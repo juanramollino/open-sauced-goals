@@ -2,38 +2,38 @@
   {
     "full_name": "powershellsupport/MarkdownRenderFW",
     "stargazers_count": 1,
-    "open_issues_count": 0,
+    "open_issues_count": 1,
     "forks_count": 0
   },
   {
     "full_name": "graphql-dotnet/graphql-dotnet",
-    "stargazers_count": 4960,
-    "open_issues_count": 137,
+    "stargazers_count": 4968,
+    "open_issues_count": 140,
     "forks_count": 811
   },
   {
     "full_name": "OdeToCode/OdeToFood",
-    "stargazers_count": 372,
+    "stargazers_count": 373,
     "open_issues_count": 13,
     "forks_count": 271
   },
   {
     "full_name": "kamranahmedse/roadmap.sh",
-    "stargazers_count": 1701,
+    "stargazers_count": 1704,
     "open_issues_count": 109,
     "forks_count": 315
   },
   {
     "full_name": "TryGhost/Ghost",
-    "stargazers_count": 38945,
-    "open_issues_count": 78,
-    "forks_count": 8421
+    "stargazers_count": 38970,
+    "open_issues_count": 83,
+    "forks_count": 8429
   },
   {
     "full_name": "jscomplete/ngs",
-    "stargazers_count": 373,
+    "stargazers_count": 374,
     "open_issues_count": 6,
-    "forks_count": 423
+    "forks_count": 425
   },
   {
     "full_name": "demo-days/innersource-faq-template",
@@ -43,8 +43,8 @@
   },
   {
     "full_name": "TryGhost/Admin",
-    "stargazers_count": 582,
-    "open_issues_count": 26,
-    "forks_count": 1684
+    "stargazers_count": 583,
+    "open_issues_count": 32,
+    "forks_count": 1685
   }
 ]
