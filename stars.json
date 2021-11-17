@@ -2,32 +2,32 @@
   {
     "full_name": "powershellsupport/MarkdownRenderFW",
     "stargazers_count": 1,
-    "open_issues_count": 1,
+    "open_issues_count": 0,
     "forks_count": 0
   },
   {
     "full_name": "graphql-dotnet/graphql-dotnet",
-    "stargazers_count": 4973,
+    "stargazers_count": 4980,
     "open_issues_count": 141,
     "forks_count": 811
   },
   {
     "full_name": "OdeToCode/OdeToFood",
-    "stargazers_count": 373,
+    "stargazers_count": 374,
     "open_issues_count": 13,
-    "forks_count": 271
+    "forks_count": 272
   },
   {
     "full_name": "kamranahmedse/roadmap.sh",
-    "stargazers_count": 1706,
+    "stargazers_count": 1708,
     "open_issues_count": 109,
     "forks_count": 316
   },
   {
     "full_name": "TryGhost/Ghost",
-    "stargazers_count": 38998,
-    "open_issues_count": 73,
-    "forks_count": 8435
+    "stargazers_count": 39020,
+    "open_issues_count": 83,
+    "forks_count": 8443
   },
   {
     "full_name": "jscomplete/ngs",
@@ -44,7 +44,7 @@
   {
     "full_name": "TryGhost/Admin",
     "stargazers_count": 584,
-    "open_issues_count": 31,
+    "open_issues_count": 36,
     "forks_count": 1686
   }
 ]
