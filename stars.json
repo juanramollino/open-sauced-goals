@@ -7,15 +7,15 @@
   },
   {
     "full_name": "graphql-dotnet/graphql-dotnet",
-    "stargazers_count": 5065,
-    "open_issues_count": 159,
+    "stargazers_count": 5066,
+    "open_issues_count": 161,
     "forks_count": 824
   },
   {
     "full_name": "OdeToCode/OdeToFood",
-    "stargazers_count": 385,
+    "stargazers_count": 386,
     "open_issues_count": 13,
-    "forks_count": 279
+    "forks_count": 280
   },
   {
     "full_name": "kamranahmedse/roadmap.sh",
@@ -25,15 +25,15 @@
   },
   {
     "full_name": "TryGhost/Ghost",
-    "stargazers_count": 39388,
-    "open_issues_count": 61,
+    "stargazers_count": 39397,
+    "open_issues_count": 46,
     "forks_count": 8512
   },
   {
     "full_name": "jscomplete/ngs",
     "stargazers_count": 385,
     "open_issues_count": 7,
-    "forks_count": 446
+    "forks_count": 448
   },
   {
     "full_name": "demo-days/innersource-faq-template",
@@ -44,7 +44,7 @@
   {
     "full_name": "TryGhost/Admin",
     "stargazers_count": 590,
-    "open_issues_count": 35,
-    "forks_count": 1738
+    "open_issues_count": 38,
+    "forks_count": 1740
   }
 ]
